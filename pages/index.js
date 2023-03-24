@@ -33,7 +33,7 @@ export default function Home() {
         <div className={styles.center}>
           <div className={styles.wrapper}>
             <h1 className={inter.className}>Spørsmålet lyder</h1>
-            <p>"En berømt struktur står høyt, et vitne til tidens gang. Dens distinkte form har fanget fantasien til millioner. For å avsløre identiteten, følg tallene og avslør hemmeligheten de skjuler"</p>
+            <p>&quot;En berømt struktur står høyt, et vitne til tidens gang. Dens distinkte form har fanget fantasien til millioner. For å avsløre identiteten, følg tallene og avslør hemmeligheten de skjuler&quot;</p>
            <p>7 21 19 20 1 22 </p>
             <InputField
               correctValue="Eiffeltårnet"
