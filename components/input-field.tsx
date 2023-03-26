@@ -27,7 +27,7 @@ const InputField: React.FC<InputFieldProps> = ({ correctValue, onValidation }) =
         value={inputValue}
         onChange={handleChange}
       />
-      <button className={styles.submit} type="submit">Submit</button>
+      <button className={styles.submit} type="submit">Bekreft</button>
     </form>
   );
 };
