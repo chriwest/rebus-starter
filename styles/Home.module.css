@@ -307,4 +307,11 @@
 
 .feilsvar {
   font-size: 26px;
+  margin-top: 20px;
+
+}
+
+.textWrapper {
+  max-width: 600px;
+  margin-top: 20px;
 }
