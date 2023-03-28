@@ -1,6 +1,6 @@
 // InputField.tsx
 import React, { useState } from "react";
-import styles from "../styles/input.module.css";
+import styles from '@/styles/Input.module.css'
 
 interface InputFieldProps {
   correctValue: string[];
